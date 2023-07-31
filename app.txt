@@ -6,3 +6,4 @@ git 연습하기2
 master branch commit
 master 추가
 squash 추가
+git origin 변수문법 사용하기
