@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 master 수정
-=======
 conflict 수정2
->>>>>>> conflict
 git 연습하기2
 newBranch 수정
 git 연습하기2
