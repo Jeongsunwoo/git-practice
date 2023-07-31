@@ -1,4 +1,4 @@
-conflict 수정
+master 수정
 git 연습하기2
 newBranch 수정
 git 연습하기2
