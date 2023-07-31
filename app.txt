@@ -1,4 +1,4 @@
-master 브랜치수정
+conflict 수정
 git 연습하기2
 newBranch 수정
 git 연습하기2
