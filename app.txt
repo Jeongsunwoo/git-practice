@@ -4,4 +4,8 @@ git 연습하기2
 newBranch 수정
 git 연습하기2
 master branch commit
+<<<<<<< HEAD
 master 추가
+=======
+squash 추가
+>>>>>>> squash
